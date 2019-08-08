@@ -1,3 +1,4 @@
+# no.of possible ways of making an amount, from given coins
 amt = int(input('amount: '))
 coin =list(map(int,input().split()))
 
